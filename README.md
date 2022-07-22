@@ -1,2 +1,2 @@
-# GT-Computational-Biology-Society.github.io
-GT CompBio Society Website
+# GT CompBio Society Website
+
